@@ -1,0 +1,21 @@
+*::-moz-selection {
+    background-color: #24A1F8;
+    color: #000
+}
+
+*::selection {
+    background-color: #24A1F8;
+    color: #000
+}
+
+.logo{
+  width: 20%;
+}
+
+@media (max-width: 768px) {
+
+  .logo{
+    width: 65%;
+  }
+
+}
